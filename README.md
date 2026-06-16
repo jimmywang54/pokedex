@@ -6,7 +6,7 @@ Pokedex helps Pokemon trainers to look up detailed information on each Pokemon, 
 
 ## Top-level Directory Layout
     .
-    |-- public              # Assets
+    |-- public              # Assetssss
         |-- images          # Images
         |-- index.html      # entry point for browser
     |-- src
